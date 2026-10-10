@@ -1,0 +1,10 @@
+Task 1 -> Result: 100
+Task 2 -> Result: 400
+Task 3 -> Result: 900
+Task 4 -> Result: 1600
+Task 5 -> Result: 2500
+Task 6 -> Result: 3600
+Task 7 -> Result: 4900
+Task 8 -> Result: 6400
+Task 9 -> Result: 8100
+Task 10 -> Result: 10000
